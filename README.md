@@ -5,7 +5,11 @@ This is a simple Vue 3 project that allows users to search for Pokemon by name u
 ## Project setup
 
 1. Clone the repository: `git clone https://github.com/your-username/vue3-pokemon-search.git`
+<<<<<<< HEAD
 2. Install dependencies: `npm install -D tailwindcss postcss autoprefixer @vue/cli-plugin-babel`
+=======
+2. Install dependencies: `npm install -D tailwindcss postcss autoprefixer`
+>>>>>>> master
 
 ## Running the app
 
