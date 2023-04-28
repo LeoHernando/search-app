@@ -31,4 +31,3 @@ This is a simple Vue 3 project that allows users to search for Pokemon by name u
 
 - The Pokemon data is provided by the [PokeAPI](https://pokeapi.co/).
 - This project took references from the following project (https://www.youtube.com/watch?v=QJhqr7jqxVo)
-- This project was created by Leo Hernando Tan(https://github.com/LeoHernando).
