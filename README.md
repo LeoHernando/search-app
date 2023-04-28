@@ -2,15 +2,10 @@
 
 This is a simple Vue 3 project that allows users to search for Pokemon by name using a search bar.
 
-## Project setup
+<a href="https://pokemonsearch.herokuapp.com/" target="_blank"><strong>Check out the Web Application »</strong></a>
 
-1. Clone the repository: `git clone https://github.com/your-username/vue3-pokemon-search.git`
-2. Install dependencies: `npm install -D tailwindcss postcss autoprefixer @vue/cli-plugin-babel`
-
-## Running the app
-
-1. Run the app locally: `npm run serve`
-2. Open your browser and go to `http://localhost:8080`
+## Preview
+![alt text](public/pokemon_search.png)
 
 ## Usage
 
